@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author             = { "PengShuangTa" => "https://github.com/pengshuangta/ADCDN_SDK" }
   s.platform     = :ios, "9.0"
   s.source       = { :git => "https://github.com/pengshuangta/ADCDN_SDK.git", :tag => s.version.to_s }
-  s.source_files  = "ADCDN_SDK/**/*.{h,m}"
+  s.source_files  = "ADCDN/**/*.{h,m,framework}"
   s.requires_arc = true
   #s.frameworks = "UIKit", "Photos", "AssetsLibrary"
 
