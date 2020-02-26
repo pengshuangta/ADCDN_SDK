@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ADCDN"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "广告sdk"
   s.homepage     = "https://github.com/pengshuangta/ADCDN_SDK"
   s.license      = "MIT"
